@@ -1,0 +1,8 @@
+numpy
+sounddevice
+comtypes
+pycaw
+pystray
+Pillow
+psutil
+pywin32
